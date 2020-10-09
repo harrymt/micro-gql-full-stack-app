@@ -5,13 +5,13 @@
 
 ```bash
 cd backend
-make
+make install
+make start
 ```
 
 ### Run Frontend
 
 ```bash
 cd frontend
-make install
-make start
+make
 ```
